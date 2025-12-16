@@ -78,5 +78,5 @@ EHRA is released under the **MIT License** – see `LICENSE.txt`.
 
 ## Disclaimer
 
-The software is provided *as is* for research and educational use. Always verify simulation settings and results on your specific machine and tooling before production.
+The software is provided *as is* for research and educational use. The software is provided as is for research and educational use. Always confirm the input Excel template, hazard intensity ranges including subdivision, solver settings, and results on your specific seismic PRA example, carefully.
 
