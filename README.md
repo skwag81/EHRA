@@ -49,7 +49,7 @@ This program, called EHRA (External Hazard probabilistic Risk Assessment), is a 
 
 ## Quick start
 
-Please take a look at the attached guide in the 'doc' folder.
+Please take a look at the attached guide in the **docs** folder.
 
 --- 
 
