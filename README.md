@@ -1,6 +1,6 @@
 # EHRA 
 
-**EHRA** – A MATLAB-based graphical user interface for external hazard probabilistic risk assessment for a nuclear power plant.
+**EHRA** – A MATLAB-based graphical user interface (GUI) for external hazard probabilistic risk assessment (EHRA) for a nuclear power plant (NPP).
 
 Authors · Changuk Mun, Shinyoung Kwag, Seunghyun Eem, Daegi Hahm
   
@@ -10,7 +10,7 @@ License · MIT (see `LICENSE`)
 
 ## Purpose
 
-This program, called EHRA (External Hazard Probabilistic Risk Assessment), is a MATLAB-based GUI developed to facilitate Seismic probabilistic risk assessment (PRA) for nuclear power plants (NPPs).
+This program, called EHRA (External Hazard probabilistic Risk Assessment), is a MATLAB-based GUI developed to facilitate Seismic probabilistic risk assessment (PRA) for nuclear power plants (NPPs).
 
 ---
 
@@ -49,7 +49,7 @@ This program, called EHRA (External Hazard Probabilistic Risk Assessment), is a 
 
 ## Quick start
 
-Please take a look at the attached guide.
+Please take a look at the attached guide in the 'doc' folder.
 
 --- 
 
