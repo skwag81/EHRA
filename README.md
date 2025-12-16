@@ -72,7 +72,7 @@ EHRA can be applied across academic, industrial, and educational settings.
 
 ## License
 
-EHRA is released under the **MIT License** – see `LICENSE`.
+EHRA is released under the **MIT License** – see `LICENSE.txt`.
 
 ---
 
