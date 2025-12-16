@@ -4,13 +4,13 @@
 
 Authors · Changuk Mun, Shinyoung Kwag, Seunghyun Eem, Daegi Hahm
   
-License · MIT (see `LICENSE`)
+License · MIT (see `LICENSE.txt`)
 
 ---
 
 ## Purpose
 
-This program, called EHRA (External Hazard probabilistic Risk Assessment), is a MATLAB-based GUI developed to facilitate Seismic probabilistic risk assessment (PRA) for nuclear power plants (NPPs).
+This program, called EHRA (External Hazard probabilistic Risk Assessment), is a MATLAB-based GUI developed to facilitate seismic probabilistic risk assessment (PRA) for nuclear power plants (NPPs).
 
 ---
 
