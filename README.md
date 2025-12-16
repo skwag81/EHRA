@@ -29,7 +29,7 @@ This program, called EHRA (External Hazard probabilistic Risk Assessment), is a 
 
 ## Installation
 
-### Option A – Source code
+### Option A – Source code (Recommended)
 
 1. Clone this repository.  
 2. Open 'EHRA_v1.mlapp' in MATLAB R2024a or newer.  
@@ -44,6 +44,13 @@ This program, called EHRA (External Hazard probabilistic Risk Assessment), is a 
    - Standalone APP using MATLAB Compiler
 3. Install the matching **MATLAB Runtime**.  
 4. Run `EHRA.exe` (Windows) or the equivalent launcher for your OS.
+
+### Option C – Packaged app 
+
+1. Install the matching **MATLAB Runtime**.
+2. Execute either of the following:
+   - Install **EHRA.mlappinstall** in **release** folder, and run this application.
+   - Run `EHRA.exe` in **EHRA standalone** of **release** folder for your OS. (No MATLAB license is required, but source code cannot be accessed.)
 
 ---
 
